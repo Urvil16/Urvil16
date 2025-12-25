@@ -30,26 +30,16 @@ Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Urvil16">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urvil16&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Urvil16&show_icons=true&count_private=true&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
 
 <br/>
 
-<a href="https://github.com/Urvil16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvil16&langs_count=8&layout=compact&theme=dark&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvil16&layout=compact&langs_count=8&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
 
 <br/>
 
 <b>Top Repositories</b>
 
-<p align="left">
-  <a href="https://github.com/Urvil16/Event-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=Event-Management-System&theme=dark&hide_border=true" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=Event-Management-System&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
 
-  <a href="https://github.com/Urvil16/ai-trip-planner-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=ai-trip-planner-web-app&theme=dark&hide_border=true" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=ai-trip-planner-web-app&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
