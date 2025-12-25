@@ -26,20 +26,10 @@ I am currently seeking an opportunity as a fresher Web Developer where I can con
 <p align="left"> <a href="https://www.github.com/Urvil16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/urvilpanchal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 Badges
 
-### Badges
+### ⭐ Featured Projects
 
-<b>My GitHub Stats</b>
+- 🚀 **Event Management Website** — PHP, MySQL  
+  👉 https://github.com/Urvil16/event-management-website
 
-<img src="https://github-readme-stats.vercel.app/api?username=Urvil16&show_icons=true&count_private=true&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvil16&layout=compact&langs_count=8&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
-
-<br/>
-
-<b>Top Repositories</b>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=Event-Management-System&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Urvil16&repo=ai-trip-planner-web-app&theme=dark&hide_border=true" referrerpolicy="no-referrer" />
+- ✈️ **AI Trip Planner Web App** — React, Node.js  
+  👉 https://github.com/Urvil16/ai-trip-planner-web-app
